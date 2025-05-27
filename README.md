@@ -23,7 +23,6 @@ This Python script automates the process of verifying ownership of Google Search
 
 ## 📁 File Structure
 
-.
 ├── gsc_transfer.py            # The main script
 ├── urls.txt                   # List of HTTPS URLs to verify (one per line)
 ├── verification_results.csv   # Log output of results per URL
